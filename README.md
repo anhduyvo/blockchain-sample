@@ -1,2 +1,0 @@
-# blockchain-sample
-blockchain-sample
