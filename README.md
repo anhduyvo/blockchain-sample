@@ -10,3 +10,5 @@
 
 => start making Smart Contract: Write -> Compile -> Deploy -> Interact
 - Solidity: is an object oriented java script style language
+- Solidity: support datatypes: bool, string, int/uint (int8 -> int256), address, ufixed, ufixed8x8
+- Access Modifiers: public, private, internal, external => your code can only be executed from where you expected
