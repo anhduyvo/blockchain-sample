@@ -1,4 +1,4 @@
-﻿Sample Blockchain App:
+﻿For initial setup:
 - install nodejs: 6.10.1
 - install chocolatey: https://www.chocolatey.org/install
 - install Github Client: choco install git -params "GitAndUnixToolsOnPath"
